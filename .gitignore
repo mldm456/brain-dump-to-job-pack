@@ -1,0 +1,11 @@
+# Your own working files stay local
+.DS_Store
+*.bak
+*.bak-*
+scratch/
+jobs/
+backups/
+RECEIPT.md
+
+# Local Claude Code state
+.claude/
